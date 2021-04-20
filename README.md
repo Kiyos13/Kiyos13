@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WoS13
+- 👋 Hi, I’m @Kiyos13
 - 🌱 I’m currently learning: Python, C, JavaScript, C#, HTML
 - 📫 How to reach me: mathilde.pommier.13@gmail.com
 
